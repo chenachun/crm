@@ -6,7 +6,6 @@ package com.chenhui.crm.settings.domain;
  * Description :
  *
  * @author : chenhui@xvco.com
- * @date : 2020/10/3 20:58
  */
 public class User {
     private String id;
