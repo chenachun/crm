@@ -10,7 +10,6 @@ import com.chenhui.crm.utils.SqlSessionUtil;
  * Description :
  *
  * @author : chenhui@xvco.com
- * @date : 2020/10/3 21:04
  */
 public class UserServiceImpl implements UserService {
     private UserDao userDao = SqlSessionUtil.getSqlSession().getMapper(UserDao.class);
