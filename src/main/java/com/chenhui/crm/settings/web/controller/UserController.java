@@ -12,7 +12,6 @@ import java.io.IOException;
  * Description :
  *
  * @author : chenhui@xvco.com
- * @date : 2020/10/3 21:09
  */
 public class UserController extends HttpServlet {
     @Override
