@@ -10,7 +10,6 @@
 
         <package name="com.chenhui.crm.settings.domain"/>
 
-
     </typeAliases>
 
     <environments default="development">
